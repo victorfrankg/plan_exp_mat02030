@@ -1,0 +1,84 @@
+---
+title: "Planejamento de Experimentos - Exercícios 1"
+output: html_notebook
+author: "Enzo Bertoldi e Victor Frank"
+---
+***
+
+## Exercícios {.tabset .tabset-pills .tabset-fade}
+### Exercício 1
+Um experimento de lavagem das mãos foi realizado
+para determinar como a temperatura da água de lavagem e a
+quantidade de detergente afetam a contagem de bacteriana na
+palmas das mãos das pessoas.
+
+(a) Identifique a unidade experimental.\
+```{text}
+teste
+```
+(b) Identifique os fatores.\
+(c) Identifique a resposta.\
+(d) Explique e exemplifique a diferença entre uma unidade
+experimental e uma unidade de observação (subamostra ou
+subunidade).\
+(e) Explique e exemplifique a diferença entre uma unidade de
+observação e uma duplicata.\
+
+### Exercício 2
+Em cada uma das seguintes situações identifique a variável resposta e as
+populações a serem comparadas, identificando o número de tratamentos e o número
+de repetições de cada um:
+
+(a) Para comparar quatro variedades de tomateiro, plantaram-se 12 de cada
+variedade, registrando-se a produção de tomates em libras;\
+(b) Em um experimento de marketing, comparam-se cinco tipos diferentes de
+embalagem para um detergente de lavanderia. Cada embalagem é mostrada a 40
+consumidores em potencial, que classificam a atratividade do produto em uma escala
+de 1 a 10;\
+(c) Para comparar a eficácia de três programas diferentes de redução de peso,
+atribuem-se aleatoriamente 20 pessoas a cada um. Ao final do programa, registra-se a
+redução de peso de cada um dos participantes;\
+(d) Em um estudo sobre o hábito de fumar, os indivíduos são classificados como nãofumantes, fumantes moderados ou fumantes inveterados. Extrai-se uma amostra de
+tamanho 100 de cada grupo, pedindo-se a cada indivíduo que reporte o número de
+horas de sono em uma noite típica;\
+(e) A resistência do concreto depende da fórmula utilizada para prepará-lo. Em um
+estudo, compararam-se quatro misturas diferentes. Prepararam-se cinco lotes de cada
+mistura, medindo-se a resistência do concreto feito com a mistura de cada lote.\
+(f) De três métodos de ensino de linguagem de sinais, qual é o mais eficaz?
+Atribuíram-se aleatoriamente vinte estudantes a cada um dos métodos, registrando-se
+seus escores no exame final.\
+
+### Exercício 3
+Está sendo planejada uma pesquisa para verificar a hipótese
+de que novas cultivares de milho com teores mais elevados do
+aminoácido lisina têm maior valor nutritivo do que cultivares de milho
+comuns. Com esse propósito serão preparadas rações mistas de milho e
+soja, combinando milho de cada uma de três cultivares – duas dessas
+novas cultivares e uma cultivar comum - com cada um de três níveis de
+proteína: 12%, 18% e 24%. Cada uma dessas rações será assinalada a
+10 pintos de um dia por um período de três semanas. O valor nutritivo da
+ração será avaliado pelo ganho de peso dos animais nesse período.
+
+(a) Identifique as características respostas relevantes nessa pesquisa.\
+(b) Identifique as características explanatórias e os correspondentes
+níveis.\
+
+### Exercício 4
+Considere os dois seguintes planos para uma pesquisa com o
+propósito de testar a hipótese de que o exercício físico reduz o risco de ataque
+cardíaco:
+
+A - É escolhido um grupo de 1.000 homens de mais de 40 anos de idade que
+fazem exercício físico regularmente e não tiveram ataque cardíaco. Cada um
+desses indivíduos é emparelhado com um indivíduo semelhante, mas que não faz
+exercícios com regularidade. Os dois grupos são acompanhados por um período
+de 5 anos durante o qual é registrada a ocorrência de ataques cardíacos.\
+B - É utilizado um grupo de 2.000 homens de mais de 40 anos de idade que não
+tiveram ataque cardíaco e que estão dispostos a participar voluntariamente da
+pesquisa. O pesquisador submete 1.000 desses indivíduos a um programa regular
+de exercícios supervisionados. Os outros 1.000 indivíduos continuam com seus
+hábitos. Os 2.000 indivíduos são acompanhados por um período de 5 anos.\
+(a) Especifique a unidade e a população objetivo dessa pesquisa.\
+(b) Identifique o método de pesquisa adotado em cada um desses dois planos de
+pesquisa. Qual desses dois planos produziria resultados mais fidedignos?
+Justifique sua resposta.\
